@@ -1,2 +1,2 @@
 # codeskulptor
-Basic interactive games using codeskulptor
+Basic interactive games using python based codeskulptor
