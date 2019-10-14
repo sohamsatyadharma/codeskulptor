@@ -1,2 +1,5 @@
 # codeskulptor
-Basic interactive games using python based codeskulptor
+
+This is a series of interactive games using python based compiler Codeskulptor as a part of the following two courses on Coursera: 
+1. [https://www.coursera.org/learn/interactive-python-2 "Introduction to Interactive Programming in Python (Part 2)"]
+2. [https://www.coursera.org/learn/interactive-python-1 "Introduction to Interactive Programming in Python (Part 1)"]
